@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\razzr\\.nuget\\packages\\": {}
+    "C:\\Users\\devik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\razzr\\source\\repos\\IndianPlatter\\DAL\\DAL.csproj",
+      "projectUniqueName": "D:\\.net\\Project\\OnlineFoodordering4-09-2023\\IndianPlatter\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\razzr\\source\\repos\\IndianPlatter\\DAL\\DAL.csproj",
-      "packagesPath": "C:\\Users\\razzr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\razzr\\source\\repos\\IndianPlatter\\DAL\\obj\\",
+      "projectPath": "D:\\.net\\Project\\OnlineFoodordering4-09-2023\\IndianPlatter\\DAL\\DAL.csproj",
+      "packagesPath": "C:\\Users\\devik\\.nuget\\packages\\",
+      "outputPath": "D:\\.net\\Project\\OnlineFoodordering4-09-2023\\IndianPlatter\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\razzr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\devik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

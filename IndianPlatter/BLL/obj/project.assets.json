@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\razzr\\.nuget\\packages\\": {}
+    "C:\\Users\\devik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\razzr\\source\\repos\\IndianPlatter\\BLL\\BLL.csproj",
+      "projectUniqueName": "D:\\.net\\Project\\OnlineFoodordering4-09-2023\\IndianPlatter\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "C:\\Users\\razzr\\source\\repos\\IndianPlatter\\BLL\\BLL.csproj",
-      "packagesPath": "C:\\Users\\razzr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\razzr\\source\\repos\\IndianPlatter\\BLL\\obj\\",
+      "projectPath": "D:\\.net\\Project\\OnlineFoodordering4-09-2023\\IndianPlatter\\BLL\\BLL.csproj",
+      "packagesPath": "C:\\Users\\devik\\.nuget\\packages\\",
+      "outputPath": "D:\\.net\\Project\\OnlineFoodordering4-09-2023\\IndianPlatter\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\razzr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\devik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\razzr\\source\\repos\\IndianPlatter\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\razzr\\source\\repos\\IndianPlatter\\DAL\\DAL.csproj"
+            "D:\\.net\\Project\\OnlineFoodordering4-09-2023\\IndianPlatter\\DAL\\DAL.csproj": {
+              "projectPath": "D:\\.net\\Project\\OnlineFoodordering4-09-2023\\IndianPlatter\\DAL\\DAL.csproj"
             }
           }
         }
@@ -84,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
