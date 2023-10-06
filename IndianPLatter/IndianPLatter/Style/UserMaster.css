@@ -1,0 +1,111 @@
+﻿body {
+    background-image: url('../Image/Master.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    position: absolute;
+    vertical-align: top;
+}
+
+.logo {
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 325px;
+    width: 256px;
+    height: 102px;
+    position: relative;
+}
+
+.imgBtn {
+    float: left;
+    height: 70px;
+    width: 70px;
+    margin-top: 40px;
+}
+
+    .imgBtn:hover {
+        animation: imgBtnrotate 0.8s ease-in-out both;
+        animation-delay: 0.07s;
+    }
+
+@keyframes imgBtnrotate {
+    0% {
+        transform: rotate(0deg) translate3d(0, 0, 0);
+    }
+
+    25% {
+        transform: rotate(3deg) translate3d(0, 0, 0);
+    }
+
+    50% {
+        transform: rotate(-3deg) translate3d(0, 0, 0);
+    }
+
+    75% {
+        transform: rotate(1deg) translate3d(0, 0, 0);
+    }
+
+    100% {
+        transform: rotate(0deg) translate3d(0, 0, 0);
+    }
+}
+
+@keyframes imgBtnstorm {
+    0% {
+        transform: translate3d(0, 0, 0) translateZ(0);
+    }
+
+    25% {
+        transform: translate3d(4px, 0, 0) translateZ(0);
+    }
+
+    50% {
+        transform: translate3d(-3px, 0, 0) translateZ(0);
+    }
+
+    75% {
+        transform: translate3d(2px, 0, 0) translateZ(0);
+    }
+
+    100% {
+        transform: translate3d(0, 0, 0) translateZ(0);
+    }
+}
+
+.textBox {
+    color: white;
+    float: left;
+    margin-top: 50px;
+    margin-right: 15px;
+    width: 250px;
+    height: 45px;
+    font-size: 20px;
+    position: relative;
+    background: rgba(30, 30, 30, 0.49);
+    border-radius: 10px;
+}
+
+.menu {
+    float: left;
+    margin-top: 50px;
+    width: 400px;
+    height: 50px;
+    font-size: 20px;
+    position: relative;
+    background: rgba(30, 30, 30, 0.49);
+    border-radius: 10px;
+}
+
+.logout {
+    margin: 10px;
+    padding: 8px;
+    float: right;
+    margin-top: 50px;
+    width: 78px;
+    height: 35px;
+    font-size: 25px;
+    position: relative;
+    background: rgba(30, 30, 30, 0.49);
+    border-radius: 10px;
+}

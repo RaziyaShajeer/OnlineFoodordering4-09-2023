@@ -1,0 +1,9 @@
+D:\.net\Project\IndianPLatter\BLL\bin\Debug\BLL.dll
+D:\.net\Project\IndianPLatter\BLL\bin\Debug\BLL.pdb
+D:\.net\Project\IndianPLatter\BLL\bin\Debug\DAL.dll
+D:\.net\Project\IndianPLatter\BLL\bin\Debug\DAL.pdb
+D:\.net\Project\IndianPLatter\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\.net\Project\IndianPLatter\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\.net\Project\IndianPLatter\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\.net\Project\IndianPLatter\BLL\obj\Debug\BLL.dll
+D:\.net\Project\IndianPLatter\BLL\obj\Debug\BLL.pdb
